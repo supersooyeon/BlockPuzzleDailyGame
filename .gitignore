@@ -1,0 +1,50 @@
+# --- Unity generated ---
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild*/
+[Ll]ogs/
+[Uu]serSettings/
+MemoryCaptures/
+
+# --- IDE / OS ---
+.DS_Store
+Thumbs.db
+.vs/
+.idea/
+*.suo
+*.user
+*.userprefs
+*.csproj
+*.sln
+*.unityproj
+*.pidb
+*.booproj
+
+# --- Android/iOS toolchain ---
+.gradle/
+*.apk
+*.aab
+DerivedData/
+ios/Pods/
+Podfile.lock
+
+# --- EDM4U caches/outputs ---
+Assets/Plugins/Android/*.aar
+Assets/PlayServicesResolver/*
+
+Assets/ExternalDependencyManager/Editor/*Cache*/
+
+# --- Secrets / Keys ---
+*.keystore
+*.jks
+*.p12
+*.pfx
+*.pem
+keystore.properties
+signing.properties
+.env
+.env.*
+
+# --- Optional: configs ---
+# google-services.json, GoogleService-Info.plist 정책상 공개하지 않으려면 제외
