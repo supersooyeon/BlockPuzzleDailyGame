@@ -1,0 +1,78 @@
+COINSSHOP : Магазин Монет
+FREE : БЕСПЛАТНО
+BUYTIPS : Купить Подсказки
+GETFREE : Получить Бесплатно
+DAILYREWARD : Ежедневные Награды
+DAY : День
+THANKS : Спасибо!
+LOADING : Загрузка...
+LUCKYSPIN : <sprite index=0 color=#FE96CD>  КРУТИ КОЛЕСО  <sprite index=0 color=#FE96CD>
+OK : OK
+YOURWIN : Ты Выиграл!
+NOADSLABEL1 : Сделай эту покупку, чтобы навсегда убрать рекламу
+NOADSLABEL2 : Рекламные видео необязательны и доступны после покупки
+BUY : КУПИТЬ
+OUTOFLIVES : НЕТ ЖИЗНЕЙ
+REFILLTHELIVES : Пополнить жизни?
+OUTOFTIME : НЕТ ВРЕМЕНИ
+REFILLTHETIME : Пополнить время?
+GIFT : Подарок
+LEVELCLEARED : УРОВЕНЬ ПРОЙДЕН!
+SETTINGS : Настройки
+SHOP : МАГАЗИН
+PRIVACY : КОНФИДЕНЦИАЛЬНОСТЬ
+QUITTHEGAME : Выйти из Игры
+DOYOUWANTTOQUIT : Ты действительно хочешь выйти?
+YES : Да
+NO : НЕТ
+COMINGSOON : Перезапусти игру, чтобы играть снова, или жди следующего обновления
+YOUWIN : Ты Выиграл!
+NEXTLEVEL : Следующий Уровень
+SCORE : Счет
+POINTS : Очки
+REVIVEWITHNEWSHAPES : Продолжить с текущим счетом и начать заново?
+WHATCHADS : Смотреть Рекламу
+CONTINUE : Продолжить
+YOULOSE : Ты Проиграл...
+RETRY : Повторить
+ALMOST : Почти получилось...
+ARCADEMODE : АРКАДНЫЙ РЕЖИМ
+STAGE : ЭТАП {stage}
+LEVEL : УРОВЕНЬ {level}
+MOSTPOPULAR : Самый Популярный
+BESTOFFER : ЛУЧШЕЕ Предложение
+NOADS : БЕЗ РЕКЛАМЫ
+FREESPIN : Бесплатный Спин
+SOUNDS : Звуки
+MUSIC : Музыка
+VIBRATION : Вибрация
+GAMEOVER : Игра Окончена
+YOURSCORE : Твой Счет
+BESTSCORE : ЛУЧШИЙ Счет
+NEWRECORD : Новый Рекорд!
+EXITGAME : Выйти из Игры
+ADVENTURE : ПРИКЛЮЧЕНИЕ
+CLASSIC : КЛАССИКА
+TUTORIAL : Обучение
+RESTORE_PURCHASES : ВОССТАНОВИТЬ ПОКУПКИ
+TIMED : ВРЕМЯ
+CONTINUEWITHEXTRASECONDS : ДОП <color=yellow>+{continueTimerBonus}</color> сек
+YOUHAVETIMELEFT : У тебя осталось <color=yellow>{timeLeft}</color> мин
+CONTINUEORLOSEPROGRESS : Новые фигуры или потерять прогресс?
+LEADERBOARD : РЕЙТИНГ СЕГОДНЯ
+LANGUAGE : Язык
+RATEUS : Оценить Нас
+DELET_ACCOUNT : Удалить Аккаунт
+DELETE_ACCOUNT_TEXT : Ты уверен, что хочешь удалить свой аккаунт?\nЭто навсегда удалит твой игровой прогресс, счета и все связанные данные.\n[highlight]Это действие необратимо.[/highlight]\nТы выйдешь из Google Play Games, и данные нельзя будет восстановить.\n\n\n[highlight]Чтобы навсегда удалить аккаунт, введи точно в следующее поле.[/highlight]
+CANCEL : Отмена
+DELETE : Удалить
+ACCOUNT_DELETION_FAILED : Удаление аккаунта не удалось, потому что введенное значение не совпадает.
+HOLD_ON : Подожди секунду перед игрой!
+HOLD_TEXT : Прежде чем погрузиться в веселое приключение с головоломками, вот что ты должен знать!\nЧтобы обеспечить лучший опыт, эта игра может собирать некоторые личные данные через Google Play Games, рекламу и аналитику Firebase.\nДля получения дополнительной информации ознакомься с документами ниже:
+VIEW_TERMS_OF_SERVICE : [ Посмотреть Условия Обслуживания ]
+VIEW_PRIVACY_POLICY : [ Посмотреть Политику Конфиденциальности ]
+CONSENT_CHECKBOX : Я прочитал и готов решать головоломки!
+AGREE : Согласиться и Начать Игру
+CHECKBOX : Тебе нужно поставить галочку, чтобы продолжить.
+HOME : Главное Меню
+NOTHANKS : Всё хорошо. Я сделаю это снова

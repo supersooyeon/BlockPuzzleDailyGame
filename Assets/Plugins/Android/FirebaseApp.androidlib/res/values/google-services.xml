@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources xmlns:tools="http://schemas.android.com/tools" tools:keep="@string/gcm_defaultSenderId,@string/google_storage_bucket,@string/project_id,@string/google_api_key,@string/google_crash_reporting_api_key,@string/google_app_id,@string/default_android_client_id,@string/default_web_client_id">
+  <string name="gcm_defaultSenderId" translatable="false">235596812950</string>
+  <string name="google_storage_bucket" translatable="false">block-puzzle-daily-game.firebasestorage.app</string>
+  <string name="project_id" translatable="false">block-puzzle-daily-game</string>
+  <string name="google_api_key" translatable="false">AIzaSyC2nvnp_ByXF9zLOfs7H6yk1vAfU08iU_8</string>
+  <string name="google_crash_reporting_api_key" translatable="false">AIzaSyC2nvnp_ByXF9zLOfs7H6yk1vAfU08iU_8</string>
+  <string name="google_app_id" translatable="false">1:235596812950:android:df75e0d653d51a221b28b7</string>
+  <string name="default_android_client_id" translatable="false">235596812950-mhi523v17q1aal01nmcerqpdija02d96.apps.googleusercontent.com</string>
+  <string name="default_web_client_id" translatable="false">235596812950-jg22l8b9nmm5nf87e1vp073fro99l9av.apps.googleusercontent.com</string>
+</resources>

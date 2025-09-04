@@ -1,0 +1,78 @@
+COINSSHOP : 코인 상점
+FREE : 무료
+BUYTIPS : 팁 구매
+GETFREE : 무료 획득
+DAILYREWARD : 일일 보상
+DAY : 일
+THANKS : 감사합니다!
+LOADING : 로딩 중...
+LUCKYSPIN : <sprite index=0 color=#FE96CD>  행운의 룰렛  <sprite index=0 color=#FE96CD>
+OK : 확인
+YOURWIN : 승리!
+NOADSLABEL1 : 이 상품을 구매하면 광고가 영구히 제거됩니다
+NOADSLABEL2 : 보상 동영상은 선택사항이며 구매 후에도 시청할 수 있습니다
+BUY : 구매
+OUTOFLIVES : 생명 소진
+REFILLTHELIVES : 생명을 보충하시겠습니까?
+OUTOFTIME : 시간 초과
+REFILLTHETIME : 시간을 보충하시겠습니까?
+GIFT : 선물
+LEVELCLEARED : 레벨 클리어!
+SETTINGS : 설정
+SHOP : 상점
+PRIVACY : 개인정보처리방침
+QUITTHEGAME : 게임 종료
+DOYOUWANTTOQUIT : 정말로 종료하시겠습니까?
+YES : 예
+NO : 아니오
+COMINGSOON : 게임을 다시 시작하거나 다음 업데이트를 기다려주세요
+YOUWIN : 승리!
+NEXTLEVEL : 다음 레벨
+SCORE : 점수
+POINTS : 포인트
+REVIVEWITHNEWSHAPES : 점수를 이어서 다시 시작하겠습니까?
+WHATCHADS : 광고 보기
+CONTINUE : 계속
+YOULOSE : 패배...
+RETRY : 다시 시도
+ALMOST : 거의 다 왔어요...
+ARCADEMODE : 아케이드 모드
+STAGE : 스테이지 {stage}
+LEVEL : 레벨 {level}
+MOSTPOPULAR : 가장 인기
+BESTOFFER : 최고 할인
+NOADS : 광고 제거
+FREESPIN : 무료 스핀
+SOUNDS : 사운드
+MUSIC : 음악
+VIBRATION : 진동
+GAMEOVER : 게임 오버
+YOURSCORE : 당신의 점수
+BESTSCORE : 최고 점수
+NEWRECORD : 신기록!
+EXITGAME : 게임 종료
+ADVENTURE : 어드벤처
+CLASSIC : 클래식
+TUTORIAL : 튜토리얼
+RESTORE_PURCHASES : 구매 복원
+TIMED : 시간제한
+CONTINUEWITHEXTRASECONDS : 추가 <color=yellow>+{continueTimerBonus}</color> 초
+YOUHAVETIMELEFT : <color=yellow>{timeLeft}</color> 분 남았습니다
+CONTINUEORLOSEPROGRESS : 새로운 블록 또는 진행상황 잃기?
+LEADERBOARD : 오늘의 순위
+LANGUAGE : 언어
+RATEUS : 평가하기
+DELET_ACCOUNT : 계정 삭제
+DELETE_ACCOUNT_TEXT : 정말로 계정을 삭제하시겠습니까?\n게임 내 진행상황, 점수, 연결된 모든 데이터가 영구적으로 삭제됩니다.\n[highlight]이 작업은 되돌릴 수 없습니다.[/highlight]\nGoogle Play Games에서 로그아웃되며, 데이터를 복구할 수 없습니다.\n\n\n[highlight]계정을 영구적으로 삭제하려면 아래 필드에 정확히 입력해주세요.[/highlight]
+CANCEL : 취소
+DELETE : 삭제
+ACCOUNT_DELETION_FAILED : 입력한 값이 일치하지 않아 계정 삭제에 실패했습니다.
+HOLD_ON : 게임 시작 전 잠깐만요!
+HOLD_TEXT : 재미있는 퍼즐 모험을 시작하기 전에 알아두셔야 할 사항이 있습니다!\n더 나은 경험을 제공하기 위해 이 게임은 Google Play Games, 광고, Firebase 분석을 통해 일부 개인 데이터를 수집할 수 있습니다.\n자세한 내용은 아래 문서를 확인해주세요:
+VIEW_TERMS_OF_SERVICE : [ 서비스 약관 보기 ]
+VIEW_PRIVACY_POLICY : [ 개인정보처리방침 보기 ]
+CONSENT_CHECKBOX : 읽었으며 퍼즐을 시작할 준비가 되었습니다!
+AGREE : 동의하고 게임 시작
+CHECKBOX : 계속하려면 체크박스를 선택해야 합니다. 
+HOME : 메인 메뉴
+NOTHANKS : 괜찮아요. 다시 할게요

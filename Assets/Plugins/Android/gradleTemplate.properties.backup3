@@ -1,0 +1,7 @@
+unityStreamingAssets=.unity3d**STREAMING_ASSETS**
+org.gradle.jvmargs=-Xmx4096m
+# Unity 6 / AGP 8.x 에서는 불필요하지만, 하위 에디터 호환을 위해 유지 가능
+# android.suppressUnsupportedCompileSdk=35
+# Force Gradle to use Java 17 to match LevelPlay 8.11.0 compiled classes
+# Unity 6는 내장 JDK 17을 사용하므로 명시 제거 권장
+# org.gradle.java.home=C:/Users/yeony/AppData/Local/Programs/Eclipse Adoptium/jdk-17.0.15.6-hotspot
