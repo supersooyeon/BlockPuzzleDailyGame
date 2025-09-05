@@ -1,3 +1,81 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:62d53387ec194150c8c646bfc4bb275716528dc870ebaef25d9dd0569d17711f
-size 1463
+fileFormatVersion: 2
+guid: 4a712f6ef12f441e9d8b053a3c30ad55
+labels:
+- gvh
+- gvh_version-13.2.0
+- gvhp_exportpath-Firebase/Plugins/Firebase.Crashlytics.dll
+timeCreated: 1480838400
+PluginImporter:
+  serializedVersion: 1
+  iconMap: {}
+  executionOrder: {}
+  isPreloaded: 0
+  platformData:
+    Android:
+      enabled: 1
+      settings:
+        CPU: AnyCPU
+    Any:
+      enabled: 0
+      settings: {}
+    Editor:
+      enabled: 1
+      settings:
+        CPU: AnyCPU
+        DefaultValueInitialized: true
+        OS: AnyOS
+    Linux:
+      enabled: 1
+      settings:
+        CPU: x86
+    Linux64:
+      enabled: 1
+      settings:
+        CPU: x86_64
+    LinuxUniversal:
+      enabled: 1
+      settings:
+        CPU: AnyCPU
+    OSXIntel:
+      enabled: 1
+      settings:
+        CPU: x86
+    OSXIntel64:
+      enabled: 1
+      settings:
+        CPU: x86_64
+    OSXUniversal:
+      enabled: 1
+      settings:
+        CPU: AnyCPU
+    Web:
+      enabled: 0
+      settings: {}
+    WebStreamed:
+      enabled: 0
+      settings: {}
+    Win:
+      enabled: 1
+      settings:
+        CPU: x86
+    Win64:
+      enabled: 1
+      settings:
+        CPU: x86_64
+    WindowsStoreApps:
+      enabled: 0
+      settings:
+        CPU: AnyCPU
+    iOS:
+      enabled: 0
+      settings:
+        CompileFlags:
+        FrameworkDependencies:
+    tvOS:
+      enabled: 0
+      settings:
+        CompileFlags:
+        FrameworkDependencies:
+  userData:
+  assetBundleName:
+  assetBundleVariant:

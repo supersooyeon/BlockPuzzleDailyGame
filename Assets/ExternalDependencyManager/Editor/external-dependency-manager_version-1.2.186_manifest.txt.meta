@@ -7,15 +7,9 @@ labels:
 - gvhp_exportpath-ExternalDependencyManager/Editor/external-dependency-manager_version-1.2.186_manifest.txt
 - gvhp_manifestname-0External Dependency Manager
 - gvhp_manifestname-play-services-resolver
+timeCreated: 1474401009
+licenseType: Pro
 TextScriptImporter:
-  externalObjects: {}
-  userData: 
-  assetBundleName: 
-  assetBundleVariant: 
-AssetOrigin:
-  serializedVersion: 1
-  productId: 297325
-  packageName: 'Block Blast Puzzle: Game Toolkit | 250 levels'
-  packageVersion: 
-  assetPath: Assets/ExternalDependencyManager/Editor/external-dependency-manager_version-1.2.186_manifest.txt
-  uploadId: 0
+  userData:
+  assetBundleName:
+  assetBundleVariant:

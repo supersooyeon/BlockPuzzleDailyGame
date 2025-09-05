@@ -15779,6 +15779,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   currentLevel: 0
+  completedLevel: 0
   lineExplosionPrefab: {fileID: 6568122982175664432, guid: 83f55c00fd12f428893e1e17677416c7, type: 3}
   comboTextPrefab: {fileID: 2962016862536130149, guid: de525d326d2534f8c902e39883867845, type: 3}
   pool: {fileID: 1556230944}
