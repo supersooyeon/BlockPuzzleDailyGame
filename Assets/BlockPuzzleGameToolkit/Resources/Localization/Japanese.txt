@@ -1,0 +1,78 @@
+COINSSHOP : コインショップ
+FREE : 無料
+BUYTIPS : ヒント購入
+GETFREE : 無料獲得
+DAILYREWARD : デイリーレワード
+DAY : 日
+THANKS : ありがとう！
+LOADING : 読み込み中...
+LUCKYSPIN : <sprite index=0 color=#FE96CD>  ラッキースピン  <sprite index=0 color=#FE96CD>
+OK : OK
+YOURWIN : 勝利！
+NOADSLABEL1 : この購入で広告を永久に削除
+NOADSLABEL2 : 報酬動画は任意で、購入後も視聴可能
+BUY : 購入
+OUTOFLIVES : ライフ切れ
+REFILLTHELIVES : ライフを補充しますか？
+OUTOFTIME : 時間切れ
+REFILLTHETIME : 時間を補充しますか？
+GIFT : ギフト
+LEVELCLEARED : レベルクリア！
+SETTINGS : 設定
+SHOP : ショップ
+PRIVACY : プライバシー
+QUITTHEGAME : ゲーム終了
+DOYOUWANTTOQUIT : 本当に終了しますか？
+YES : はい
+NO : いいえ
+COMINGSOON : ゲームをリセットして再プレイするか、次のアップデートをお待ちください
+YOUWIN : 勝利！
+NEXTLEVEL : 次のレベル
+SCORE : スコア
+POINTS : ポイント
+REVIVEWITHNEWSHAPES : スコアを引き継いで再開しますか？
+WHATCHADS : 広告を見る
+CONTINUE : 続行
+YOULOSE : 敗北...
+RETRY : リトライ
+ALMOST : あと少し...
+ARCADEMODE : アーケードモード
+STAGE : ステージ {stage}
+LEVEL : レベル {level}
+MOSTPOPULAR : 人気
+BESTOFFER : ベストオファー
+NOADS : 広告なし
+FREESPIN : 無料スピン
+SOUNDS : サウンド
+MUSIC : 音楽
+VIBRATION : 振動
+GAMEOVER : ゲームオーバー
+YOURSCORE : あなたのスコア
+BESTSCORE : ベストスコア
+NEWRECORD : 新記録！
+EXITGAME : ゲーム終了
+ADVENTURE : アドベンチャー
+CLASSIC : クラシック
+TUTORIAL : チュートリアル
+RESTORE_PURCHASES : 購入を復元
+TIMED : 制限時間
+CONTINUEWITHEXTRASECONDS : 追加 <color=yellow>+{continueTimerBonus}</color> 秒
+YOUHAVETIMELEFT : 残り <color=yellow>{timeLeft}</color> 分
+CONTINUEORLOSEPROGRESS : 新しいブロックまたは進行状況を失う？
+LEADERBOARD : 今日の順位
+LANGUAGE : 言語
+RATEUS : 評価する
+DELET_ACCOUNT : アカウント削除
+DELETE_ACCOUNT_TEXT : 本当にアカウントを削除しますか？\nゲーム内の進行状況、スコア、リンクされたデータが永久に削除されます。\n[highlight]この操作は元に戻せません。[/highlight]\nGoogle Play Gamesからログアウトされ、データは復元できません。\n\n\n[highlight]アカウントを永久に削除するには、以下のフィールドに正確に入力してください。[/highlight]
+CANCEL : キャンセル
+DELETE : 削除
+ACCOUNT_DELETION_FAILED : 入力された値が一致しないため、アカウント削除に失敗しました。
+HOLD_ON : プレイ前に少しお待ちください！
+HOLD_TEXT : 楽しいパズルアドベンチャーを始める前に、知っておくべきことがあります！\nより良い体験を提供するため、このゲームはGoogle Play Games、広告、Firebase分析を通じて一部の個人データを収集する場合があります。\n詳細については、以下のドキュメントをご確認ください：
+VIEW_TERMS_OF_SERVICE : [ 利用規約を見る ]
+VIEW_PRIVACY_POLICY : [ プライバシーポリシーを見る ]
+CONSENT_CHECKBOX : 読みました。パズルを始める準備ができました！
+AGREE : 同意してゲーム開始
+CHECKBOX : 続行するにはチェックボックスを選択する必要があります。
+HOME : メインメニュー
+NOTHANKS : 大丈夫です。また挑戦します

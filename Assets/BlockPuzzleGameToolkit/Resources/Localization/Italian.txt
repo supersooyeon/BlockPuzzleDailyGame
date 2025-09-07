@@ -1,0 +1,78 @@
+COINSSHOP : Negozio di Monete
+FREE : GRATIS
+BUYTIPS : Compra Suggerimenti
+GETFREE : Ottieni Gratis
+DAILYREWARD : Ricompense Giornaliere
+DAY : Giorno
+THANKS : Grazie!
+LOADING : Caricamento...
+LUCKYSPIN : <sprite index=0 color=#FE96CD>  RUOTA DELLA FORTUNA  <sprite index=0 color=#FE96CD>
+OK : OK
+YOURWIN : Hai Vinto!
+NOADSLABEL1 : Fai questo acquisto per rimuovere permanentemente gli annunci
+NOADSLABEL2 : I video di ricompensa sono opzionali e disponibili dopo l'acquisto
+BUY : ACQUISTA
+OUTOFLIVES : SENZA VITE
+REFILLTHELIVES : Ricaricare le vite?
+OUTOFTIME : SENZA TEMPO
+REFILLTHETIME : Ricaricare il tempo?
+GIFT : Regalo
+LEVELCLEARED : LIVELLO COMPLETATO!
+SETTINGS : Impostazioni
+SHOP : NEGOZIO
+PRIVACY : PRIVACY
+QUITTHEGAME : Esci dal Gioco
+DOYOUWANTTOQUIT : Vuoi davvero uscire?
+YES : Sì
+NO : NO
+COMINGSOON : Riavvia il gioco per giocare di nuovo o aspetta il prossimo aggiornamento
+YOUWIN : Hai Vinto!
+NEXTLEVEL : Livello Successivo
+SCORE : Punteggio
+POINTS : Punti
+REVIVEWITHNEWSHAPES : Continuare con il punteggio e ricominciare?
+WHATCHADS : Guarda Annunci
+CONTINUE : Continua
+YOULOSE : Hai Perso...
+RETRY : Riprova
+ALMOST : Quasi fatto...
+ARCADEMODE : MODALITÀ ARCADE
+STAGE : STAGE {stage}
+LEVEL : LIVELLO {level}
+MOSTPOPULAR : Più Popolare
+BESTOFFER : MIGLIORE Offerta
+NOADS : SENZA ANNUNCI
+FREESPIN : Giro Gratis
+SOUNDS : Suoni
+MUSIC : Musica
+VIBRATION : Vibrazione
+GAMEOVER : Game Over
+YOURSCORE : Il Tuo Punteggio
+BESTSCORE : MIGLIORE Punteggio
+NEWRECORD : Nuovo Record!
+EXITGAME : Esci dal Gioco
+ADVENTURE : AVVENTURA
+CLASSIC : CLASSICO
+TUTORIAL : Tutorial
+RESTORE_PURCHASES : RIPRISTINA ACQUISTI
+TIMED : A TEMPO
+CONTINUEWITHEXTRASECONDS : EXTRA <color=yellow>+{continueTimerBonus}</color> sec
+YOUHAVETIMELEFT : Hai <color=yellow>{timeLeft}</color> min rimanenti
+CONTINUEORLOSEPROGRESS : Nuove forme o perdere progresso?
+LEADERBOARD : CLASSIFICA DI OGGI
+LANGUAGE : Lingua
+RATEUS : Valutaci
+DELET_ACCOUNT : Elimina Account
+DELETE_ACCOUNT_TEXT : Sei sicuro di voler eliminare il tuo account?\nQuesto eliminerà permanentemente i tuoi progressi di gioco, punteggi e tutti i dati collegati.\n[highlight]Questa azione è irreversibile.[/highlight]\nSarai disconnesso da Google Play Games e i tuoi dati non potranno essere recuperati.\n\n\n[highlight]Per eliminare permanentemente il tuo account, inserisci esattamente nel campo seguente.[/highlight]
+CANCEL : Annulla
+DELETE : Elimina
+ACCOUNT_DELETION_FAILED : L'eliminazione dell'account è fallita perché il valore inserito non corrisponde.
+HOLD_ON : Aspetta un secondo prima di giocare!
+HOLD_TEXT : Prima di immergerti in un'avventura di puzzle divertente, ecco qualcosa che dovresti sapere!\nPer fornire un'esperienza migliore, questo gioco può raccogliere alcuni dati personali tramite Google Play Games, annunci e analisi Firebase.\nPer maggiori dettagli, consulta i documenti qui sotto:
+VIEW_TERMS_OF_SERVICE : [ Visualizza Termini di Servizio ]
+VIEW_PRIVACY_POLICY : [ Visualizza Politica sulla Privacy ]
+CONSENT_CHECKBOX : Ho letto e sono pronto per risolvere puzzle!
+AGREE : Accetta e Inizia a Giocare
+CHECKBOX : Devi selezionare la casella per continuare.
+HOME : Menu Principale
+NOTHANKS : Va bene. Lo farò di nuovo

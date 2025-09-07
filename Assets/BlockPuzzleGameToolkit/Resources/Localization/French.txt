@@ -1,0 +1,78 @@
+COINSSHOP : Boutique de Pièces
+FREE : GRATUIT
+BUYTIPS : Acheter des Conseils
+GETFREE : Obtenir Gratuitement
+DAILYREWARD : Récompenses Quotidiennes
+DAY : Jour
+THANKS : Merci !
+LOADING : Chargement...
+LUCKYSPIN : <sprite index=0 color=#FE96CD>  ROUETTE DE CHANCE  <sprite index=0 color=#FE96CD>
+OK : OK
+YOURWIN : Vous Gagnez !
+NOADSLABEL1 : Faites cet achat pour supprimer définitivement les publicités
+NOADSLABEL2 : Les vidéos de récompense sont optionnelles et disponibles après l'achat
+BUY : ACHETER
+OUTOFLIVES : PLUS DE VIES
+REFILLTHELIVES : Recharger les vies ?
+OUTOFTIME : PLUS DE TEMPS
+REFILLTHETIME : Recharger le temps ?
+GIFT : Cadeau
+LEVELCLEARED : NIVEAU TERMINÉ !
+SETTINGS : Paramètres
+SHOP : BOUTIQUE
+PRIVACY : CONFIDENTIALITÉ
+QUITTHEGAME : Quitter le jeu
+DOYOUWANTTOQUIT : Voulez-vous vraiment quitter ?
+YES : Oui
+NO : NON
+COMINGSOON : Redémarrez le jeu pour rejouer ou attendez la prochaine mise à jour
+YOUWIN : Vous Gagnez !
+NEXTLEVEL : Niveau Suivant
+SCORE : Score
+POINTS : Points
+REVIVEWITHNEWSHAPES : Continuer avec le score et recommencer ?
+WHATCHADS : Regarder les Publicités
+CONTINUE : Continuer
+YOULOSE : Vous Perdez...
+RETRY : Réessayer
+ALMOST : Presque là...
+ARCADEMODE : MODE ARCADE
+STAGE : ÉTAPE {stage}
+LEVEL : NIVEAU {level}
+MOSTPOPULAR : Plus Populaire
+BESTOFFER : MEILLEURE Offre
+NOADS : SANS PUBLICITÉS
+FREESPIN : Tour Gratuit
+SOUNDS : Sons
+MUSIC : Musique
+VIBRATION : Vibration
+GAMEOVER : Fin de Partie
+YOURSCORE : Votre Score
+BESTSCORE : MEILLEUR Score
+NEWRECORD : Nouveau Record !
+EXITGAME : Quitter le Jeu
+ADVENTURE : AVENTURE
+CLASSIC : CLASSIQUE
+TUTORIAL : Tutoriel
+RESTORE_PURCHASES : RESTAURER LES ACHATS
+TIMED : CHRONOMÉTRÉ
+CONTINUEWITHEXTRASECONDS : EXTRA <color=yellow>+{continueTimerBonus}</color> sec
+YOUHAVETIMELEFT : Il vous reste <color=yellow>{timeLeft}</color> min
+CONTINUEORLOSEPROGRESS : Nouvelles formes ou perdre le progrès ?
+LEADERBOARD : CLASSEMENT DU JOUR
+LANGUAGE : Langue
+RATEUS : Évaluez-nous
+DELET_ACCOUNT : Supprimer le Compte
+DELETE_ACCOUNT_TEXT : Êtes-vous sûr de vouloir supprimer votre compte ?\nCela supprimera définitivement votre progression dans le jeu, vos scores et toutes les données liées.\n[highlight]Cette action est irréversible.[/highlight]\nVous serez déconnecté de Google Play Games et vos données ne pourront pas être récupérées.\n\n\n[highlight]Pour supprimer définitivement votre compte, veuillez entrer exactement dans le champ suivant.[/highlight]
+CANCEL : Annuler
+DELETE : Supprimer
+ACCOUNT_DELETION_FAILED : La suppression du compte a échoué car la valeur entrée ne correspond pas.
+HOLD_ON : Attendez une seconde avant de jouer !
+HOLD_TEXT : Avant de plonger dans une aventure de puzzle amusante, voici quelque chose que vous devriez savoir !\nPour fournir une meilleure expérience, ce jeu peut collecter certaines données personnelles via Google Play Games, les publicités et l'analyse Firebase.\nPour plus de détails, consultez les documents ci-dessous :
+VIEW_TERMS_OF_SERVICE : [ Voir les Conditions de Service ]
+VIEW_PRIVACY_POLICY : [ Voir la Politique de Confidentialité ]
+CONSENT_CHECKBOX : J'ai lu et je suis prêt à résoudre des puzzles !
+AGREE : Accepter et Commencer à Jouer
+CHECKBOX : Vous devez cocher la case pour continuer.
+HOME : Menu Principal
+NOTHANKS : C'est bon. Je vais recommencer 
