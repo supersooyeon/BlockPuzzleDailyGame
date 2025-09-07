@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: ac1c0f33bcd4c4087a7827710e05e3ae
+DefaultImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 297325
+  packageName: 'Block Blast Puzzle: Game Toolkit | 250 levels'
+  packageVersion: 
+  assetPath: Assets/Plugins/Android/mainTemplate.gradle
+  uploadId: 0

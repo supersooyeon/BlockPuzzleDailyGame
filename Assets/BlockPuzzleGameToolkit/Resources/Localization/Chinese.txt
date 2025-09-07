@@ -1,0 +1,78 @@
+COINSSHOP : 金币商店
+FREE : 免费
+BUYTIPS : 购买提示
+GETFREE : 免费获得
+DAILYREWARD : 每日奖励
+DAY : 天
+THANKS : 谢谢！
+LOADING : 加载中...
+LUCKYSPIN : <sprite index=0 color=#FE96CD>  幸运转盘  <sprite index=0 color=#FE96CD>
+OK : 确定
+YOURWIN : 你赢了！
+NOADSLABEL1 : 购买此商品永久移除广告
+NOADSLABEL2 : 奖励视频是可选的，购买后仍可观看
+BUY : 购买
+OUTOFLIVES : 生命值耗尽
+REFILLTHELIVES : 补充生命值？
+OUTOFTIME : 时间耗尽
+REFILLTHETIME : 补充时间？
+GIFT : 礼物
+LEVELCLEARED : 关卡完成！
+SETTINGS : 设置
+SHOP : 商店
+PRIVACY : 隐私
+QUITTHEGAME : 退出游戏
+DOYOUWANTTOQUIT : 你真的要退出吗？
+YES : 是
+NO : 否
+COMINGSOON : 重置游戏重新开始或等待下次更新
+YOUWIN : 你赢了！
+NEXTLEVEL : 下一关
+SCORE : 分数
+POINTS : 点数
+REVIVEWITHNEWSHAPES : 保持分数并重新开始吗？
+WHATCHADS : 观看广告
+CONTINUE : 继续
+YOULOSE : 你输了...
+RETRY : 重试
+ALMOST : 就差一点...
+ARCADEMODE : 街机模式
+STAGE : 关卡 {stage}
+LEVEL : 等级 {level}
+MOSTPOPULAR : 最受欢迎
+BESTOFFER : 最佳优惠
+NOADS : 无广告
+FREESPIN : 免费转盘
+SOUNDS : 音效
+MUSIC : 音乐
+VIBRATION : 震动
+GAMEOVER : 游戏结束
+YOURSCORE : 你的分数
+BESTSCORE : 最高分数
+NEWRECORD : 新纪录！
+EXITGAME : 退出游戏
+ADVENTURE : 冒险
+CLASSIC : 经典
+TUTORIAL : 教程
+RESTORE_PURCHASES : 恢复购买
+TIMED : 限时
+CONTINUEWITHEXTRASECONDS : 额外 <color=yellow>+{continueTimerBonus}</color> 秒
+YOUHAVETIMELEFT : 还剩 <color=yellow>{timeLeft}</color> 分钟
+CONTINUEORLOSEPROGRESS : 新形状或失去进度？
+LEADERBOARD : 今日排名
+LANGUAGE : 语言
+RATEUS : 评价我们
+DELET_ACCOUNT : 删除账户
+DELETE_ACCOUNT_TEXT : 你确定要删除你的账户吗？\n这将永久删除你的游戏进度、分数和任何链接的数据。\n[highlight]此操作不可逆转。[/highlight]\n你将退出Google Play Games，且数据无法恢复。\n\n\n[highlight]要永久删除你的账户，请在以下字段中准确输入。[/highlight]
+CANCEL : 取消
+DELETE : 删除
+ACCOUNT_DELETION_FAILED : 账户删除失败，因为输入的值不匹配。
+HOLD_ON : 游戏前请稍等！
+HOLD_TEXT : 在开始有趣的益智冒险之前，你应该知道一些事情！\n为了提供更好的体验，此游戏可能通过Google Play Games、广告和Firebase分析收集一些个人数据。\n更多详情，请查看以下文档：
+VIEW_TERMS_OF_SERVICE : [ 查看服务条款 ]
+VIEW_PRIVACY_POLICY : [ 查看隐私政策 ]
+CONSENT_CHECKBOX : 我已阅读并准备好开始益智游戏！
+AGREE : 同意并开始游戏
+CHECKBOX : 你需要勾选复选框才能继续。
+HOME : 主菜单
+NOTHANKS : 没关系。我再试一次

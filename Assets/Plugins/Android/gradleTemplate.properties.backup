@@ -1,0 +1,3 @@
+unityStreamingAssets=.unity3d**STREAMING_ASSETS**
+org.gradle.jvmargs=-Xmx4096m
+unityProjectPath=C:/UnityProjects/BlockPuzzle/Block Puzzle Daily Game
